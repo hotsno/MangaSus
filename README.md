@@ -1,1 +1,2 @@
-# mangasus
+# MangaSus
+[Link](https://mangasus.ga/)
