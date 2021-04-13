@@ -1,5 +1,7 @@
 body {
   background-color: rgb(11, 22, 34);
+  color: #fff;
+  margin: 20px;
 }
 h1 {
   color: aliceblue;
@@ -8,6 +10,54 @@ h1 {
   margin-bottom: 20px;
 }
 
-p {
+.card {
+  background-color: #0f2844;
+  margin: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bg-dark {
+  background-color: #0f2844 !important;
+}
+
+.card-img {
+  width: 100%
+}
+
+/* .read-now-button {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 10px;
+} */
+
+/* p {
   text-align: center;
+} */
+
+.meme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+/* Width */
+::-webkit-scrollbar {
+  width: 15px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+background: #0b1622;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0a1b2e;
+}
+ 
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0c223a;
 }
