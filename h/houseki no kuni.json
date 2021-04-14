@@ -6,234 +6,1012 @@
   "cover":"https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74489-bTNWsnzztzmI.jpg",
   "chapters":{
     "1":{
-      "title":"Phosphophyllite",
       "volume":"1",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/uvtlc5D/"
+        "Habanero Scans":[
+          "https://i.ibb.co/BTqTqcL/1d88bc8c6972.jpg",
+          "https://i.ibb.co/wWh6y19/a60c0ee0f4b8.jpg",
+          "https://i.ibb.co/MMDFHJy/dd9006751bbc.jpg",
+          "https://i.ibb.co/7j006s0/03d3988bf77a.jpg",
+          "https://i.ibb.co/fNRNrGH/29536691befa.jpg",
+          "https://i.ibb.co/wwZdXFt/dedee7ed25fd.jpg",
+          "https://i.ibb.co/wzGjHT7/bc8d3c878b4b.jpg",
+          "https://i.ibb.co/hdC0rYc/0d8284f9cf55.jpg",
+          "https://i.ibb.co/nbrHB7F/63a0c5fd53b6.jpg",
+          "https://i.ibb.co/xH4zj1X/85e2cdd8f124.jpg",
+          "https://i.ibb.co/VTh4TNW/671cda77e752.jpg",
+          "https://i.ibb.co/JkrzKTf/12056951ae09.jpg",
+          "https://i.ibb.co/hfcWRWF/91deca1aa1bf.jpg",
+          "https://i.ibb.co/1rHDjtr/e50b99713830.jpg",
+          "https://i.ibb.co/3RNg4vG/cadc9e2d2e99.jpg",
+          "https://i.ibb.co/fMdhH4k/7dde84caaf18.jpg",
+          "https://i.ibb.co/4YjPHbB/cbb74d8da169.jpg",
+          "https://i.ibb.co/GT50JHq/d8420b8d8806.jpg",
+          "https://i.ibb.co/yqtgc14/402a399e60e2.jpg",
+          "https://i.ibb.co/127MThK/d514dd503c29.jpg",
+          "https://i.ibb.co/Jj8cQRj/f07e7154b32c.jpg",
+          "https://i.ibb.co/KxZ7BVT/e0e5ccf5186e.jpg",
+          "https://i.ibb.co/xYZNYyG/7b6ef0d9af32.jpg",
+          "https://i.ibb.co/x3NFFk6/f1877e56ab55.jpg",
+          "https://i.ibb.co/Vqq99vt/0b348b2bf52d.jpg",
+          "https://i.ibb.co/XXYGgcn/73c199f366f5.jpg",
+          "https://i.ibb.co/VM8rd1c/aec8b271902f.jpg",
+          "https://i.ibb.co/26G6ZgV/1bfd2e1f9753.jpg",
+          "https://i.ibb.co/dWv49Rz/b5d8d9dee9b5.jpg",
+          "https://i.ibb.co/y47L0rF/25eed602d999.jpg",
+          "https://i.ibb.co/5Wtv0nD/d8fd05ef7bb9.jpg",
+          "https://i.ibb.co/YNHW59b/d84de5a62adf.jpg",
+          "https://i.ibb.co/FJC92Lp/1d6f0c8db65f.jpg",
+          "https://i.ibb.co/zfSsjpG/f219c9af92d4.jpg",
+          "https://i.ibb.co/kXTdRW4/795c49db49fb.jpg",
+          "https://i.ibb.co/ypdQZ74/3ce8ec66c07d.jpg",
+          "https://i.ibb.co/rZZ4cyL/3c6d3bf7a3ca.jpg",
+          "https://i.ibb.co/sPJ6QC4/282a9f3fd98a.jpg",
+          "https://i.ibb.co/xXD5Qj3/739b35d1f813.jpg",
+          "https://i.ibb.co/BfhgHqX/70e9dce49fdd.jpg"
+        ]
       },
-      "last_updated":"1616368746"
-    },
-    "2":{
-      "title":"Cinnabar",
-      "volume":"1",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/xHP3Nwm/"
-      },
-      "last_updated":"1616368746"
-    },
-    "3":{
-      "title":"Diamond",
-      "volume":"1",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/6dxuQOM/"
-      },
-      "last_updated":"1616368746"
-    },
-    "4":{
-      "title":"Cochlea",
-      "volume":"1",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/MfitSXW/"
-      },
-      "last_updated":"1616368746"
-    },
-    "5":{
-      "title":"Metamorphosis",
-      "volume":"1",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/RRhtvTQ/"
-      },
-      "last_updated":"1616368746"
-    },
-    "6":{
-      "title":"Extract",
-      "volume":"1",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/W5EO2ph/"
-      },
-      "last_updated":"1616368746"
-    },
-    "7":{
-      "title":"Ventricosus",
-      "volume":"2",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/KVpFBTN/"
-      },
-      "last_updated":"1616368746"
-    },
-    "8":{
-      "title":"Ocean",
-      "volume":"2",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/bq2GM6N/"
-      },
-      "last_updated":"1616368746"
-    },
-    "9":{
-      "title":"Spirit, Flesh, Bone",
-      "volume":"2",
-      "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/d0rIC7l/"
-      },
-      "last_updated":"1616368746"
+      "last_updated":"1618423825"
     },
     "10":{
-      "title":"Homecoming",
       "volume":"2",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/J6u1Qe7/"
+        "Habanero Scans":[
+          "https://i.ibb.co/tZT3V91/64b5711b4b50.jpg",
+          "https://i.ibb.co/yVSM0NZ/7cce4912f379.jpg",
+          "https://i.ibb.co/xJ2ZSZm/52cef951e18f.jpg",
+          "https://i.ibb.co/PzHCtHs/25a8bbbbe3f4.jpg",
+          "https://i.ibb.co/MnL4LnT/3d5f440b1ab0.jpg",
+          "https://i.ibb.co/m8JRNnY/6d4afd801b05.jpg",
+          "https://i.ibb.co/WHV4MY5/8e528d34fedc.jpg",
+          "https://i.ibb.co/7bYQRVc/b4e9c5c97049.jpg",
+          "https://i.ibb.co/zGRRXcP/5d033e7fab85.jpg",
+          "https://i.ibb.co/9c94PhK/b028938b79cc.jpg",
+          "https://i.ibb.co/TmbSnpG/154a8bd2ad4b.jpg",
+          "https://i.ibb.co/Dtd2WxX/09931f54f2fd.jpg",
+          "https://i.ibb.co/ncFwDJT/54431218bbc4.jpg",
+          "https://i.ibb.co/HzhWQzn/e1e91e47cde5.jpg",
+          "https://i.ibb.co/540Ckgr/83f18d6db1b7.jpg",
+          "https://i.ibb.co/zPjW4Gc/1e3efbc3d699.jpg",
+          "https://i.ibb.co/Jpsh3ZY/8f65c6df2c95.jpg",
+          "https://i.ibb.co/rcyrRhD/46bbe943d264.jpg",
+          "https://i.ibb.co/gPpzmJh/ce2fc09b798f.jpg",
+          "https://i.ibb.co/G9XKrwW/b8cfda46a3f9.jpg",
+          "https://i.ibb.co/vDcd7By/2a3eaaec5f1d.jpg",
+          "https://i.ibb.co/2cf3Kbq/70149e5bfc17.jpg",
+          "https://i.ibb.co/m9YVDxk/2a10f84d8dfe.jpg",
+          "https://i.ibb.co/KNPbkR4/e5977f7de167.jpg",
+          "https://i.ibb.co/QDbn9vd/0bbed530a681.jpg",
+          "https://i.ibb.co/T29Ds1K/81a2a46d6268.jpg",
+          "https://i.ibb.co/tDrSRJJ/ff06141d7cdd.jpg",
+          "https://i.ibb.co/hVT2y7f/7b278c9e4fba.jpg"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618423853"
     },
     "11":{
-      "title":"New Legs",
       "volume":"2",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/4w3HoPf/"
+        "Habanero Scans":[
+          "https://i.ibb.co/7Sxfbbx/3c5b34e936dd.jpg",
+          "https://i.ibb.co/4MfGDz4/0b9b714ddc2c.jpg",
+          "https://i.ibb.co/9brvDY8/203b67d9adc4.jpg",
+          "https://i.ibb.co/8960Pry/bf0aee4e9318.jpg",
+          "https://i.ibb.co/HH8hbXD/43a03fb91ff3.jpg",
+          "https://i.ibb.co/kHGkVqT/b038ef07d78e.jpg",
+          "https://i.ibb.co/3v7rqkL/62679fff0cdf.jpg",
+          "https://i.ibb.co/qjDPnVC/b90567568733.jpg",
+          "https://i.ibb.co/7tmYj8r/c722b21f1f30.jpg",
+          "https://i.ibb.co/6HrSs6d/cb788145225a.jpg",
+          "https://i.ibb.co/v3MSpQ0/5320161d5043.jpg",
+          "https://i.ibb.co/K7N1ZPF/924024d6abc6.jpg",
+          "https://i.ibb.co/Fs6HgZh/d8dd8bf28353.jpg",
+          "https://i.ibb.co/SrV1TjJ/e620ca3a8f53.jpg",
+          "https://i.ibb.co/7pHRTX3/d7c43ac1db96.jpg",
+          "https://i.ibb.co/3yffy4q/8f99f8a5b940.jpg",
+          "https://i.ibb.co/Hz8GHCB/a064d16681a6.jpg",
+          "https://i.ibb.co/1Gysh58/d684d4cfb884.jpg",
+          "https://i.ibb.co/GTY7x74/78dcae9b6cc1.jpg",
+          "https://i.ibb.co/SrdL2DR/dd88604b34dc.jpg",
+          "https://i.ibb.co/rt38YZk/539cd70b0838.jpg",
+          "https://i.ibb.co/W63YpXg/392c91f5b398.jpg",
+          "https://i.ibb.co/98KGsZZ/c71d21b85988.jpg",
+          "https://i.ibb.co/FwGvrCG/667647d6bfb9.jpg",
+          "https://i.ibb.co/PgKv95J/b5a7eef5495d.jpg",
+          "https://i.ibb.co/N9vPQnc/1885326f84dc.jpg",
+          "https://i.ibb.co/N6pD7J7/92adbd1fc434.jpg",
+          "https://i.ibb.co/ZSWQyhQ/a77509400cb8.jpg",
+          "https://i.ibb.co/WKhTYQr/c3e728dfe509.jpg",
+          "https://i.ibb.co/zsxSrYN/65b25833192b.jpg"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618423883"
     },
     "12":{
-      "title":"Yellow Diamond",
       "volume":"2",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/tqc2wEW/"
+        "Habanero Scans":[
+          "https://i.ibb.co/bKqfd7z/3e64ed93338f.jpg",
+          "https://i.ibb.co/9YVZzdw/ccaa6109017f.jpg",
+          "https://i.ibb.co/TvM1dPX/c84f26b236a4.jpg",
+          "https://i.ibb.co/d48dBFG/3323c41310cb.jpg",
+          "https://i.ibb.co/tqLGvmw/d1ecbfd9004b.jpg",
+          "https://i.ibb.co/HFpWZXx/d8ce4e411f23.jpg",
+          "https://i.ibb.co/wQTVGs2/4006bdd0a849.jpg",
+          "https://i.ibb.co/mzNQnKS/01ffc2611a8e.jpg",
+          "https://i.ibb.co/nLPR11g/4bb2516382ae.jpg",
+          "https://i.ibb.co/5T9Ww6S/2a839de452a8.jpg",
+          "https://i.ibb.co/Rz58mvd/b064893149d6.jpg",
+          "https://i.ibb.co/12vL4Lr/0145b96129d0.jpg",
+          "https://i.ibb.co/PzqwC0Q/75ef41bdef53.jpg",
+          "https://i.ibb.co/nRC3BjB/a3aee15cd730.jpg",
+          "https://i.ibb.co/wwfbrjy/8b423e44e903.jpg",
+          "https://i.ibb.co/XynfC80/6a12a5d1e1fc.jpg",
+          "https://i.ibb.co/jTXPTFC/3157acf6e8a0.jpg",
+          "https://i.ibb.co/c8MqLMT/c0df85923ec9.jpg",
+          "https://i.ibb.co/ZSnvyD2/720484fe3d11.jpg",
+          "https://i.ibb.co/xYzss47/58658d3cb302.jpg",
+          "https://i.ibb.co/mbnmCDc/e0609fd09b6c.jpg",
+          "https://i.ibb.co/ysYkzs3/379457cd3f40.jpg",
+          "https://i.ibb.co/bsH8VNW/0b8bc8527421.jpg",
+          "https://i.ibb.co/VW6BXCf/a262e3a7d196.jpg",
+          "https://i.ibb.co/89RV2xf/a6b2c8d5cfc0.jpg",
+          "https://i.ibb.co/m6vYdRk/aee6a1cc1241.jpg",
+          "https://i.ibb.co/8zmGBDn/c6b9003f6b9c.jpg",
+          "https://i.ibb.co/wpnXGbH/e213bd027a64.jpg"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618423912"
     },
     "13":{
-      "title":"Twin Crystal",
       "volume":"2",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/Nd4oocP/"
+        "Habanero Scans":[
+          "https://i.ibb.co/fqk33jS/b8beed0c591d.jpg",
+          "https://i.ibb.co/v45QnJb/abde93048534.jpg",
+          "https://i.ibb.co/7nh85bw/0c4413907c16.jpg",
+          "https://i.ibb.co/YLKbqDG/00cc18ef9111.jpg",
+          "https://i.ibb.co/fnq46wD/d38083563e3b.jpg",
+          "https://i.ibb.co/tQTNzP2/41893c4b3067.jpg",
+          "https://i.ibb.co/3ybD8SJ/26d4f94e5e8a.jpg",
+          "https://i.ibb.co/KmD9VHh/75ba4fb4aef0.jpg",
+          "https://i.ibb.co/dBnwxXc/e5437c74647f.jpg",
+          "https://i.ibb.co/QbcHkqZ/9c777c5d784d.jpg",
+          "https://i.ibb.co/H4S2SgH/2e840032036a.jpg",
+          "https://i.ibb.co/YNYjkWd/80ff1e65caaf.jpg",
+          "https://i.ibb.co/J26VGxr/c34d51331ff9.jpg",
+          "https://i.ibb.co/N7ZDWCG/d2e25be24547.jpg",
+          "https://i.ibb.co/ZcsVw3S/c547585b485e.jpg",
+          "https://i.ibb.co/HHHgCyB/880250d96c03.jpg",
+          "https://i.ibb.co/WV0YRTn/e5b339a42781.jpg",
+          "https://i.ibb.co/0XmnWkm/3e9edc79c87e.jpg",
+          "https://i.ibb.co/qkBH6Q1/599d30719de6.jpg",
+          "https://i.ibb.co/s3t1QwD/1f4a2677d9d8.jpg",
+          "https://i.ibb.co/q9p6nYD/2cd4ab243595.jpg",
+          "https://i.ibb.co/bbwx208/23c503d0044a.jpg",
+          "https://i.ibb.co/BczG5mV/9f8c084bfa58.jpg",
+          "https://i.ibb.co/Sm1K5bf/c499036f6f99.jpg",
+          "https://i.ibb.co/xsFtBFx/f2551e4cdb5f.jpg",
+          "https://i.ibb.co/b67L3vZ/ddedf7158814.jpg",
+          "https://i.ibb.co/z5khH5v/4c7205017c23.jpg",
+          "https://i.ibb.co/6tZqXy5/c3203f9d6cb7.jpg"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618423940"
     },
     "14":{
-      "title":"First Battle",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/TbvMSK0/"
+        "Habanero Scans":[
+          "https://i.ibb.co/VjGxJRg/2e7c2b58c389.jpg",
+          "https://i.ibb.co/Zz0JSvm/26d5d9c045fe.png",
+          "https://i.ibb.co/ryY1c8T/c389d2ea1a8f.png",
+          "https://i.ibb.co/qD7RSMP/6d0b38f115ad.jpg",
+          "https://i.ibb.co/YQS0Kxw/262643e9b74f.jpg",
+          "https://i.ibb.co/K995d90/303933e45a64.jpg",
+          "https://i.ibb.co/9gvjb3z/d14bc39e0df5.png",
+          "https://i.ibb.co/172sdVr/178268a644f2.png",
+          "https://i.ibb.co/z61TQXG/91e4f806b262.png",
+          "https://i.ibb.co/drjx6Qt/3dc4864fa479.png",
+          "https://i.ibb.co/j67L9nJ/43009a8a4982.png",
+          "https://i.ibb.co/p2hHcfR/a85c54f2df71.png",
+          "https://i.ibb.co/3cpGTwc/f21d4971d73b.png",
+          "https://i.ibb.co/4sJ6ZRY/15cc892dda40.png",
+          "https://i.ibb.co/093N3Zs/db0a5f67eb7b.png",
+          "https://i.ibb.co/my3h69P/29808ad70462.png",
+          "https://i.ibb.co/g9Hbqvg/d948ab15949b.png",
+          "https://i.ibb.co/GvX6zw4/a07fbaa03a1a.png",
+          "https://i.ibb.co/xhfHnfX/a61c759be6d4.png",
+          "https://i.ibb.co/DbL0cwf/07e6784498b8.png",
+          "https://i.ibb.co/DMRdt2T/15959d57d12c.png",
+          "https://i.ibb.co/N27ZwzG/ef56bc9fb264.png",
+          "https://i.ibb.co/zXw7Mtj/4810d302cf17.png",
+          "https://i.ibb.co/4gRj1Sd/05ceb4774dc5.png",
+          "https://i.ibb.co/chkcFN8/8aadb0108f6f.png",
+          "https://i.ibb.co/GvTHHLg/df33d5de17f7.png",
+          "https://i.ibb.co/gVd1YNj/e78394f7db31.png",
+          "https://i.ibb.co/wYQpf3J/f0880ee95dfd.png",
+          "https://i.ibb.co/H2psS7t/185aa3dd98ba.png",
+          "https://i.ibb.co/qFZ9nKM/2877a1631b73.png",
+          "https://i.ibb.co/W0WvmBX/0b127e8bab6c.png",
+          "https://i.ibb.co/X5v3L8W/fd917108b842.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618423993"
     },
     "15":{
-      "title":"Hibernation",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/O8n4ZO6/"
+        "Habanero Scans":[
+          "https://i.ibb.co/Bt0hkyq/aaa282677457.png",
+          "https://i.ibb.co/zrQYt53/c15a8b870f30.png",
+          "https://i.ibb.co/VM3gPWV/1bcefd680c55.png",
+          "https://i.ibb.co/y8QkygM/3cb25c1a6179.png",
+          "https://i.ibb.co/zHZg6gN/16f47c921a48.png",
+          "https://i.ibb.co/kqtFgTr/01b087ab48fb.png",
+          "https://i.ibb.co/TYJSLwB/c83732fad7ac.png",
+          "https://i.ibb.co/QXTwLTs/b2c0538301d4.png",
+          "https://i.ibb.co/KWp3BZf/5e5c43f438c0.png",
+          "https://i.ibb.co/NjpvzKG/13bbf583e92b.png",
+          "https://i.ibb.co/wBJ9Xv9/b71142a6cd8f.png",
+          "https://i.ibb.co/VVn0tQX/548a81f3d252.png",
+          "https://i.ibb.co/JHnxdr5/479fbc9cea53.png",
+          "https://i.ibb.co/932Tq3k/63063db3701d.png",
+          "https://i.ibb.co/3v6HtJr/4ce18fc8cb77.png",
+          "https://i.ibb.co/KNB52nb/ab9b62b780d1.png",
+          "https://i.ibb.co/nzGVMDc/1ec822121f8b.png",
+          "https://i.ibb.co/Qd6XHSQ/f5fec86bce72.png",
+          "https://i.ibb.co/C19qsF7/014673404d4b.png",
+          "https://i.ibb.co/qgtHG7D/6fecaa117349.png",
+          "https://i.ibb.co/hHt8Dq0/776fc4630b63.png",
+          "https://i.ibb.co/YWC8x59/82438c71d4e7.png",
+          "https://i.ibb.co/Pz5krZ7/630d8397835d.png",
+          "https://i.ibb.co/x5GMNvX/1d48d0155533.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424030"
     },
     "16":{
-      "title":"Ice Floes",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/0UW7Hsb/"
+        "Habanero Scans":[
+          "https://i.ibb.co/Zc4dwW7/478de8d85eca.png",
+          "https://i.ibb.co/cyDmfSM/b99a7168a18e.png",
+          "https://i.ibb.co/mFKbYdr/e2a0b0cd3f02.png",
+          "https://i.ibb.co/xm9k38G/c8ab24a45556.png",
+          "https://i.ibb.co/4sPhhKS/28d97367435e.png",
+          "https://i.ibb.co/8zP4Dq4/30ef98d760c0.png",
+          "https://i.ibb.co/jJkgHXH/62fc21011295.png",
+          "https://i.ibb.co/rsNxsS2/ab9b610c0000.png",
+          "https://i.ibb.co/HgHjCLR/41a60eb59bd1.png",
+          "https://i.ibb.co/Ss5Z4Wz/8ec808c5699a.png",
+          "https://i.ibb.co/gjbx0dJ/0b22966afcd7.png",
+          "https://i.ibb.co/WnwVJPn/3a4e16d64480.png",
+          "https://i.ibb.co/0jFnNjx/6b176ed76e6a.png",
+          "https://i.ibb.co/HBdb3M6/bd9eb97968db.png",
+          "https://i.ibb.co/7KBVqYd/a7207e575002.png",
+          "https://i.ibb.co/QHkp4zp/dfb0cd78ad5f.png",
+          "https://i.ibb.co/ZSgckKJ/daf488293ec3.png",
+          "https://i.ibb.co/N9NWRRk/4d908127574c.png",
+          "https://i.ibb.co/JQ6QhYm/a2e938a981bd.png",
+          "https://i.ibb.co/MN1GvJY/052243f02609.png",
+          "https://i.ibb.co/2PbdvtF/57159ca4a146.png",
+          "https://i.ibb.co/9q0YkpT/5114141bded3.png",
+          "https://i.ibb.co/0tfWgJH/c285c8a41b87.png",
+          "https://i.ibb.co/3TrWVzM/0c2d0d852053.png",
+          "https://i.ibb.co/7GJ8sPm/9e6712aa34e6.png",
+          "https://i.ibb.co/bHHGjXF/9330b525b920.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424069"
     },
     "17":{
-      "title":"The Shore of Nascency",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/1AEht6L/"
+        "Habanero Scans":[
+          "https://i.ibb.co/XFpfLSR/0c10280528f8.png",
+          "https://i.ibb.co/hMN8Ssj/7b35798340e5.png",
+          "https://i.ibb.co/4Mqmcgn/c494afc30f85.png",
+          "https://i.ibb.co/mb3CrFy/b4e54593378c.png",
+          "https://i.ibb.co/2jvZFP4/be14401d4ed7.png",
+          "https://i.ibb.co/CbQWBq3/bad618484a0b.png",
+          "https://i.ibb.co/DG6BMJT/a339e6551ecc.png",
+          "https://i.ibb.co/vDXqJ2Y/343fc8ba0ba0.png",
+          "https://i.ibb.co/qdLr4FM/48ddd03b5834.png",
+          "https://i.ibb.co/WksGTZt/7eb92e3c3ba7.png",
+          "https://i.ibb.co/zh3XwLT/830bcbaeac8f.png",
+          "https://i.ibb.co/X35vd5j/d1bf1eb0a14a.png",
+          "https://i.ibb.co/nRVPvwQ/b5a0b050eee3.png",
+          "https://i.ibb.co/bsWTtSS/4a7de5b477c8.png",
+          "https://i.ibb.co/8gxDvsw/d0ad5ca12354.png",
+          "https://i.ibb.co/2vp3h28/7365a943b7b3.png",
+          "https://i.ibb.co/6Z3QbTQ/50ccd5dcebed.png",
+          "https://i.ibb.co/Yfk5Ymy/b4e086acccf1.png",
+          "https://i.ibb.co/S58Zh9P/0e3cae44ef59.png",
+          "https://i.ibb.co/94DSj35/02e05b1c1083.png",
+          "https://i.ibb.co/3TSVgwW/d1bb745b95a1.png",
+          "https://i.ibb.co/QjWHVzx/ab20a42f94a1.png",
+          "https://i.ibb.co/wpfY8RF/3a4f237cff4b.png",
+          "https://i.ibb.co/hsHZ43Q/1fc3ef4c80ff.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424102"
     },
     "18":{
-      "title":"Antarcticite",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/Uz15qCA/"
+        "Habanero Scans":[
+          "https://i.ibb.co/yVCWpPx/1a48eae16818.png",
+          "https://i.ibb.co/J3pW2m3/0510d83bac54.png",
+          "https://i.ibb.co/dQJgfDV/dac0e7fdb6e0.png",
+          "https://i.ibb.co/KVS1nYf/5a41af857302.png",
+          "https://i.ibb.co/JFPw31b/33178a86c066.png",
+          "https://i.ibb.co/MVgBGCt/27f1cf04361a.png",
+          "https://i.ibb.co/z2Y1xXY/d4ec8fec86fb.png",
+          "https://i.ibb.co/RhFkgMd/08b1683c15a6.png",
+          "https://i.ibb.co/Hn9F5BV/88b76e91916b.png",
+          "https://i.ibb.co/6mFPskR/6fceb89c98df.png",
+          "https://i.ibb.co/MD7PY1W/0002cfd57e3c.png",
+          "https://i.ibb.co/8jyjLBx/2e96f43c2296.png",
+          "https://i.ibb.co/KbMqW4N/244d5c815846.png",
+          "https://i.ibb.co/jzbT9Nx/746c9abaf72e.png",
+          "https://i.ibb.co/2NQBBtt/15a2acb73719.png",
+          "https://i.ibb.co/98y87Nv/268dc9cc2abe.png",
+          "https://i.ibb.co/M6HhKNK/f230ab801f27.png",
+          "https://i.ibb.co/4JcwYRJ/d50e0e47c15b.png",
+          "https://i.ibb.co/jZXmy6L/6273042585c7.png",
+          "https://i.ibb.co/qC53jz4/94b9ef045cb1.png",
+          "https://i.ibb.co/NVg2JNq/6aa7454a6319.png",
+          "https://i.ibb.co/YhXpZs8/616a539cf892.png",
+          "https://i.ibb.co/fYpPV8N/66564a57f307.png",
+          "https://i.ibb.co/LvZWqTj/3f00766b279f.png",
+          "https://i.ibb.co/zsMMHfc/f7e0bd542960.png",
+          "https://i.ibb.co/ZVZx0Xt/e396cfba9cdc.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424142"
     },
     "19":{
-      "title":"New Hands",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/sXjOp7e/"
+        "Habanero Scans":[
+          "https://i.ibb.co/V06Ds97/a1248794557c.png",
+          "https://i.ibb.co/Df4c9WX/8675356e5692.png",
+          "https://i.ibb.co/yFVVM4Y/707cf82a6e26.png",
+          "https://i.ibb.co/RcbVCyY/6d68cf32d94a.png",
+          "https://i.ibb.co/3drdQG1/fff2b7966e57.png",
+          "https://i.ibb.co/n826yH5/e3c4a244aaa0.png",
+          "https://i.ibb.co/TwYZ5HB/c1705947f4b6.png",
+          "https://i.ibb.co/nRs9djZ/f8f3b22cd370.png",
+          "https://i.ibb.co/QYK09vz/d49f1dc3c123.png",
+          "https://i.ibb.co/TTXvvCQ/968ef37f66b0.png",
+          "https://i.ibb.co/BZMnRyw/cf0df00976f7.png",
+          "https://i.ibb.co/MpnLBtt/77edaa11bbfa.png",
+          "https://i.ibb.co/Jj75BRV/4ad0cdb327d7.png",
+          "https://i.ibb.co/QFs7VbQ/2a985b79181a.png",
+          "https://i.ibb.co/qmxypd8/b9aadf8d235b.png",
+          "https://i.ibb.co/LJYynBN/d666d663a660.png",
+          "https://i.ibb.co/XxFMskK/4ae145f37dc1.png",
+          "https://i.ibb.co/zVXFMTs/27a762f166b3.png",
+          "https://i.ibb.co/bdSjkdt/19c5d7734eed.png",
+          "https://i.ibb.co/HP0K3SR/8631ff3171f4.png",
+          "https://i.ibb.co/mNqJ5f2/22f337a959c2.png",
+          "https://i.ibb.co/1bXhGKS/a1b705d6f602.png",
+          "https://i.ibb.co/RgFy110/effaf2bcded2.png",
+          "https://i.ibb.co/KwvKsJP/e704a2486868.png",
+          "https://i.ibb.co/5kjgDBq/bbe05d83ba6c.png",
+          "https://i.ibb.co/pn3fS6H/1710dd6cd6a5.png",
+          "https://i.ibb.co/3Y9JvN5/9053d03a81a1.png",
+          "https://i.ibb.co/YywHjsd/334348badc8e.png",
+          "https://i.ibb.co/yq5k9my/931a3f08ec58.png",
+          "https://i.ibb.co/pZTmJVx/08a7ea5a3a32.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424188"
+    },
+    "2":{
+      "volume":"1",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/XsmgPKM/7e5586cfa7d5.jpg",
+          "https://i.ibb.co/9g3ShBN/239051f11705.jpg",
+          "https://i.ibb.co/5FXJk2x/d05fcb308386.jpg",
+          "https://i.ibb.co/4PFmrtN/0d1ac728e978.jpg",
+          "https://i.ibb.co/YPX1f87/9af0404e5a08.jpg",
+          "https://i.ibb.co/ZWrGs4k/001e93e69b63.jpg",
+          "https://i.ibb.co/FwqjwrH/0d73915f58ed.jpg",
+          "https://i.ibb.co/PCkt2Hz/dde356ada6f3.jpg",
+          "https://i.ibb.co/8xdpLJz/ff6d87b6db73.jpg",
+          "https://i.ibb.co/jM3pW0p/92c7c9729934.jpg",
+          "https://i.ibb.co/7nkqh8H/eb7fb7234c12.jpg",
+          "https://i.ibb.co/TYbSsFp/634f9d5757d2.jpg",
+          "https://i.ibb.co/5BK7N6M/c3da683d8d81.jpg",
+          "https://i.ibb.co/XC9dfjv/78bdb00b8d2e.jpg",
+          "https://i.ibb.co/vx8W0ZW/0bff6917abc7.jpg",
+          "https://i.ibb.co/GFYH26x/b4b9600c21a6.jpg",
+          "https://i.ibb.co/Xygn9Z9/d96367c34554.jpg",
+          "https://i.ibb.co/2syVjTB/dcc77752d686.jpg",
+          "https://i.ibb.co/JvZdk8D/4ee537cbe294.jpg",
+          "https://i.ibb.co/37LYtXQ/17f11a7aa945.jpg",
+          "https://i.ibb.co/pWr6dC2/1bbd34215e2d.jpg",
+          "https://i.ibb.co/DRPZJys/72e56694a0c1.jpg",
+          "https://i.ibb.co/qDvdRvz/d5c9d4e1506f.jpg",
+          "https://i.ibb.co/DwqrpnJ/c1f6d92fc80a.jpg",
+          "https://i.ibb.co/GQPmXg2/7cb0bc2d3eec.jpg",
+          "https://i.ibb.co/6sv10Yy/d6ef55a6e016.jpg",
+          "https://i.ibb.co/NVZVw8m/7953b7e7b81e.jpg",
+          "https://i.ibb.co/BZGLxmn/4fe5abdedef8.jpg",
+          "https://i.ibb.co/k5p7J2G/527b0564cffa.jpg",
+          "https://i.ibb.co/1nVVywC/041fd19998cb.jpg",
+          "https://i.ibb.co/sHpT93z/f74821c30161.jpg",
+          "https://i.ibb.co/0QtskCH/5b45e130c8a9.jpg",
+          "https://i.ibb.co/2nbs15J/94413d8ba3a6.jpg",
+          "https://i.ibb.co/kKhbcSx/310728f5b1b4.jpg",
+          "https://i.ibb.co/M2QQvbS/bf3af5aa2304.jpg",
+          "https://i.ibb.co/xsxhsGg/c0ddc103f954.jpg",
+          "https://i.ibb.co/SVf3ZPP/299d36645822.jpg",
+          "https://i.ibb.co/wWK2XWD/fd18f989ea29.jpg"
+        ]
+      },
+      "last_updated":"1618424233"
     },
     "20":{
-      "title":"Winter's End",
       "volume":"3",
       "groups":{
-        "Habenero Scans":"/proxy/api/imgur/chapter/jEu3CPe/"
+        "Habanero Scans":[
+          "https://i.ibb.co/hMtggDN/d3bee114a1be.png",
+          "https://i.ibb.co/chtDcPS/254e168bdddf.png",
+          "https://i.ibb.co/XFgCLr3/d1c62b23f110.png",
+          "https://i.ibb.co/gFvHwX9/0972e9b2d5b4.png",
+          "https://i.ibb.co/2Yh7dhY/1845972156ac.png",
+          "https://i.ibb.co/nLBDD2z/6cc5738007aa.png",
+          "https://i.ibb.co/Zc8ZP4g/c4f637a1a701.png",
+          "https://i.ibb.co/m9y10WD/52aa8a535f05.png",
+          "https://i.ibb.co/2cNFSMT/073b3b3a4dd2.png",
+          "https://i.ibb.co/k6TFRZQ/a6471e89bec9.png",
+          "https://i.ibb.co/VCVW3H8/31d2a0f23d69.png",
+          "https://i.ibb.co/BPjkNhC/d4efc70f66ed.png",
+          "https://i.ibb.co/QbxSb1P/de347f811de4.png",
+          "https://i.ibb.co/nsp9JHg/359fdaef7e84.png",
+          "https://i.ibb.co/wLQb1Sd/949e689f5491.png",
+          "https://i.ibb.co/VMqNRbW/91bb7045a192.png",
+          "https://i.ibb.co/1J3XSjV/bebf9f5460c9.png",
+          "https://i.ibb.co/SPzgj0g/d65bc7d025d5.png",
+          "https://i.ibb.co/CQnPRB4/99f5452fc3d7.png",
+          "https://i.ibb.co/4Tf7HVm/1b554e4ac3eb.png",
+          "https://i.ibb.co/nsNMdyh/ae5a8e43b1cf.png",
+          "https://i.ibb.co/BP0rgtH/ef880f2659e0.png",
+          "https://i.ibb.co/Qd8rLXB/4609b3c251c5.png",
+          "https://i.ibb.co/RSVVSTV/5c286bcd09e3.png",
+          "https://i.ibb.co/1nYQYMq/f2069b2059bf.png",
+          "https://i.ibb.co/Bs4xNk7/5210020ba6ed.png",
+          "https://i.ibb.co/0296KMV/07cc298088de.png",
+          "https://i.ibb.co/WtwdC3f/4b05b63bb266.png",
+          "https://i.ibb.co/0st86Cq/2b84dc59edc5.png",
+          "https://i.ibb.co/1X0rKst/c7122dc20873.png",
+          "https://i.ibb.co/J2fpQvs/85058676e2f3.png",
+          "https://i.ibb.co/XF3knGf/ea352bcc6859.png",
+          "https://i.ibb.co/5YtNwDs/9252d74cd6ed.png",
+          "https://i.ibb.co/MSmCQTG/eecfd3b98543.png"
+        ]
       },
-      "last_updated":"1616368746"
+      "last_updated":"1618424281"
     },
     "21":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/vGy4pW6/"
+        "Habanero Scans":[
+          "https://i.ibb.co/1dNV3KC/7d462fa955d6.png",
+          "https://i.ibb.co/D7gSSVj/5b29618ab024.png",
+          "https://i.ibb.co/0cfGH7v/fec346335f9a.png",
+          "https://i.ibb.co/LdZf2Mh/d0cb1ec15505.png",
+          "https://i.ibb.co/sg9gCxS/a0d4bd05b27c.png",
+          "https://i.ibb.co/hsZmNp4/a4162dca9bbe.png",
+          "https://i.ibb.co/hHfP16p/2f3539ad4467.png",
+          "https://i.ibb.co/Xs4qg2Q/3cb97fa124f6.png",
+          "https://i.ibb.co/4dW7XxQ/d54d19efa159.png",
+          "https://i.ibb.co/pXH9Z3w/a64b320a49ca.png",
+          "https://i.ibb.co/f2SVkSM/4c748eff2b02.png",
+          "https://i.ibb.co/w7v7dPP/117a3a759b5a.png",
+          "https://i.ibb.co/0KKQ5Qw/a7b98ac94055.png",
+          "https://i.ibb.co/FVJNFTm/beec722843a5.png",
+          "https://i.ibb.co/8b7MWsG/79fd03ac45c7.png",
+          "https://i.ibb.co/p3hLYhs/405622517762.png",
+          "https://i.ibb.co/MMFH1hT/0f4bc4a84bf9.png",
+          "https://i.ibb.co/vjVCr2q/ea7b478e69b6.png",
+          "https://i.ibb.co/M8yTpL5/b4754832b20f.png",
+          "https://i.ibb.co/x19Dwmg/6613cfd9e8a2.png",
+          "https://i.ibb.co/5vrXwSM/b62ca8a1a6a9.png",
+          "https://i.ibb.co/YfDw5bP/8b63badbcfcc.png",
+          "https://i.ibb.co/n3zn9Tc/0e988b510e27.png",
+          "https://i.ibb.co/v3Dn76K/8b23962c154f.png",
+          "https://i.ibb.co/ncRrLLL/b5f3d71414b4.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Spring",
-      "volume":"4"
+      "last_updated":"1618424311"
     },
     "22":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/yIFA83d/"
+        "Habanero Scans":[
+          "https://i.ibb.co/RTH0SB5/8c4f3aab3d7d.png",
+          "https://i.ibb.co/ZKDRmTN/2cc642401c3d.png",
+          "https://i.ibb.co/khbhyzL/64797ae8db7b.png",
+          "https://i.ibb.co/stpCvjN/29e52c388f3f.png",
+          "https://i.ibb.co/sFHy4Dv/636e1cd52e43.png",
+          "https://i.ibb.co/rQw3rNF/eba625cdc559.png",
+          "https://i.ibb.co/2jg60XB/112e3de3d382.png",
+          "https://i.ibb.co/kHRj0qC/7b2d99efe71d.png",
+          "https://i.ibb.co/hHMNzx3/e022ac28bd47.png",
+          "https://i.ibb.co/fqrp6Rb/e1ea9b33eeec.png",
+          "https://i.ibb.co/3MfjFMv/680099cecf72.png",
+          "https://i.ibb.co/nfnkWP8/9d8487218c11.png",
+          "https://i.ibb.co/S7cP02r/79a8c44b2d34.png",
+          "https://i.ibb.co/7g0M9PL/57382f4355f2.png",
+          "https://i.ibb.co/NyBVrsm/20e8f1401d32.png",
+          "https://i.ibb.co/SNQzgxs/06b5108835ee.png",
+          "https://i.ibb.co/DMD3fGg/102c10507625.png",
+          "https://i.ibb.co/ZYyFBQH/adadefb0c589.png",
+          "https://i.ibb.co/QcQGHgh/ed7d24f7681f.png",
+          "https://i.ibb.co/DVvF7DB/65435cfc88a2.png",
+          "https://i.ibb.co/rpfwZny/e2ca05f8f048.png",
+          "https://i.ibb.co/PzgLKd7/3993057d82d0.png",
+          "https://i.ibb.co/rw6fYR2/1eff48092b7f.png",
+          "https://i.ibb.co/d0cLkY2/77f36c8ba632.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Changed",
-      "volume":"4"
+      "last_updated":"1618424337"
     },
     "23":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/RQh4fEb/"
+        "Habanero Scans":[
+          "https://i.ibb.co/zfyhfcw/4bef4d84904a.png",
+          "https://i.ibb.co/rHz4Wd4/0dbfd76ccf7a.png",
+          "https://i.ibb.co/P1FtV39/570af040b49c.png",
+          "https://i.ibb.co/Gn7h1MT/de13c93e2d48.png",
+          "https://i.ibb.co/9sZYV1W/3adc59f54c08.png",
+          "https://i.ibb.co/RhPNZrY/a6b6ab1ba128.png",
+          "https://i.ibb.co/XCLr21w/a3491c292b9e.png",
+          "https://i.ibb.co/SQ8HrG8/e480340feea8.png",
+          "https://i.ibb.co/P49Xg32/2b8b26923547.png",
+          "https://i.ibb.co/5rJbZdY/5645f9c5981b.png",
+          "https://i.ibb.co/CtJWmwQ/ed2b409ac05a.png",
+          "https://i.ibb.co/CM8G8dm/1a463a655951.png",
+          "https://i.ibb.co/S7gJ9w2/59641df46915.png",
+          "https://i.ibb.co/mqpxNS5/3f1fc71fd187.png",
+          "https://i.ibb.co/wRF1c8p/cee5f15c0f19.png",
+          "https://i.ibb.co/3YFmvvQ/d8571eb17e17.png",
+          "https://i.ibb.co/kyw5ZHF/3bc5f330c6ed.png",
+          "https://i.ibb.co/gJpc882/02ae429d79fe.png",
+          "https://i.ibb.co/4Y0QZvX/e56af4b2eca9.png",
+          "https://i.ibb.co/sgNg09K/60ae0d3fd9aa.png",
+          "https://i.ibb.co/2FHQNHX/94108fa584d6.png",
+          "https://i.ibb.co/L1XML1J/79dc74be07a6.png",
+          "https://i.ibb.co/0B27wY4/f6808bb5a04f.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Acumen",
-      "volume":"4"
+      "last_updated":"1618424363"
     },
     "24":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/AEqdYoK/"
+        "Habanero Scans":[
+          "https://i.ibb.co/HzKcspb/6488a677e47f.jpg",
+          "https://i.ibb.co/zrnnJYZ/87c993c3a3ad.png",
+          "https://i.ibb.co/FJ2fSTq/9ec3c477abd9.png",
+          "https://i.ibb.co/r4Q3X9w/aad918370e96.png",
+          "https://i.ibb.co/D5y0M7B/812694ecf3d5.png",
+          "https://i.ibb.co/6y3PS16/3311906edd8d.png",
+          "https://i.ibb.co/MVknbwp/b3516a6ec366.png",
+          "https://i.ibb.co/bzgJLLZ/4bbbfcc78c1f.png",
+          "https://i.ibb.co/dpJ3KRP/2889a18746a5.png",
+          "https://i.ibb.co/gDc0S5X/a72d3b14a3fc.png",
+          "https://i.ibb.co/Nj7pv5w/ae28fb899eb4.png",
+          "https://i.ibb.co/5xnYwhG/342233b49b50.png",
+          "https://i.ibb.co/Yd6KyLp/f49104f6e2dc.png",
+          "https://i.ibb.co/K7svzYP/a4f70e596579.png",
+          "https://i.ibb.co/WBfPBhC/e6eee25626fb.png",
+          "https://i.ibb.co/2YyLDYH/a4aa4b5f33c8.png",
+          "https://i.ibb.co/zW394NS/49736ec31105.png",
+          "https://i.ibb.co/0DwKYTq/66d2f59a53bc.png",
+          "https://i.ibb.co/TkSGPKJ/e81f2cf464d3.png",
+          "https://i.ibb.co/ZzCxLp2/f189f150c8bb.png",
+          "https://i.ibb.co/TtCX4k5/d4d551a7875a.png",
+          "https://i.ibb.co/z70G5Fq/4ce36b13c9da.png",
+          "https://i.ibb.co/wLC8LP2/e92e2a2466b8.png",
+          "https://i.ibb.co/vhH77WL/bf31da465deb.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Retreat",
-      "volume":"4"
+      "last_updated":"1618424393"
     },
     "25":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/p4Uq0C4/"
+        "Habanero Scans":[
+          "https://i.ibb.co/Chf0kyz/8349cb7a9b17.png",
+          "https://i.ibb.co/D1DkTMN/f80e5eaca83c.png",
+          "https://i.ibb.co/JkBdMTY/5fbc4b3f23fd.png",
+          "https://i.ibb.co/Vptdx5Q/42c190df291d.png",
+          "https://i.ibb.co/R6NDgHL/9b9515d9690f.png",
+          "https://i.ibb.co/pyB4317/ce003bb37e7f.png",
+          "https://i.ibb.co/LvtfncQ/93d0bd29f736.png",
+          "https://i.ibb.co/FYMYw21/55be25365d48.png",
+          "https://i.ibb.co/mCDPHfq/2441afa01b3b.png",
+          "https://i.ibb.co/0fZwLyx/77529db12a91.png",
+          "https://i.ibb.co/Xkfj40S/707486ac8c60.png",
+          "https://i.ibb.co/NVk26B8/c1c4bd792393.png",
+          "https://i.ibb.co/QPZDwKP/b41755bf377a.png",
+          "https://i.ibb.co/2jRDNTh/c82142735d97.png",
+          "https://i.ibb.co/KyN36Vd/6cbc74b957ce.png",
+          "https://i.ibb.co/rvHVpTw/6d66fb3fab49.png",
+          "https://i.ibb.co/p4sBSzL/e5473cfb22cf.png",
+          "https://i.ibb.co/YTftbrK/3527b181692a.png",
+          "https://i.ibb.co/F5TXp8F/0f43389294a9.png",
+          "https://i.ibb.co/JqHxqBp/19419d39ca8d.png",
+          "https://i.ibb.co/1swLL81/931add02d1d7.png",
+          "https://i.ibb.co/NntrJpS/c3f3d2a34931.png",
+          "https://i.ibb.co/VSnkjR1/8f2790075f0a.png",
+          "https://i.ibb.co/wBF3gsV/fad770dc75fd.png",
+          "https://i.ibb.co/cCZn1DR/f7bf53b40d22.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Division",
-      "volume":"4"
+      "last_updated":"1618424426"
     },
     "26":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/vR0lou4/"
+        "Habanero Scans":[
+          "https://i.ibb.co/gVvf2z2/b39c3b4ccd2e.png",
+          "https://i.ibb.co/yg62QF5/d926308f5cc7.png",
+          "https://i.ibb.co/YZ03NHd/703b82ac0ceb.png",
+          "https://i.ibb.co/jr0BQGM/7a578a234e92.png",
+          "https://i.ibb.co/KsNpBZq/3384c0ab0e57.png",
+          "https://i.ibb.co/4fDqk6k/6adba966d2d4.png",
+          "https://i.ibb.co/nmLcMdV/16bf00850614.png",
+          "https://i.ibb.co/HBn3Dnd/d9a9ac0b74f8.png",
+          "https://i.ibb.co/10NDwmx/8378beae3d6a.png",
+          "https://i.ibb.co/Hzs1pFP/52e85df524cb.png",
+          "https://i.ibb.co/sP60BsZ/536029029469.png",
+          "https://i.ibb.co/74f6Xbc/8fbfcde8cbf2.png",
+          "https://i.ibb.co/4FJjgmf/a08d9c0ff4ae.png",
+          "https://i.ibb.co/J32yPJ9/36c0c9ad62fc.png",
+          "https://i.ibb.co/xXSXHdv/7c72d1b25cb2.png",
+          "https://i.ibb.co/0KCFK6Y/fbef34a80ede.png",
+          "https://i.ibb.co/j59fSmV/c660da581784.png",
+          "https://i.ibb.co/MBkb3k0/71b0da05057f.png",
+          "https://i.ibb.co/fMNdjy1/7b224f0c7e5f.png",
+          "https://i.ibb.co/NWv8Q9H/c852d0e48e3d.png",
+          "https://i.ibb.co/StWhS44/6e7423983a95.png",
+          "https://i.ibb.co/N921VCj/a3cc88fd4c83.png",
+          "https://i.ibb.co/8Bs70kC/70d44b6df276.png",
+          "https://i.ibb.co/JsRyMSM/8c8bebe860a5.png",
+          "https://i.ibb.co/zVrtCFP/82389fc130a7.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Cry",
-      "volume":"4"
+      "last_updated":"1618424457"
     },
     "27":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/zRMvVYG/"
+        "Habanero Scans":[
+          "https://i.ibb.co/KF40zhP/f7acbc1d5550.png",
+          "https://i.ibb.co/8jyP8bC/fdba706af50d.png",
+          "https://i.ibb.co/C7JHtzx/dbfe5d8abd43.png",
+          "https://i.ibb.co/KmpnM8z/0ff955b84db2.png",
+          "https://i.ibb.co/SygsCNj/2bdeb21a0a19.png",
+          "https://i.ibb.co/vH81J1f/921c84386104.png",
+          "https://i.ibb.co/PzDzL5q/dd3f1b0fedb2.png",
+          "https://i.ibb.co/LPnrXBv/d3834e0e964b.png",
+          "https://i.ibb.co/1JF3Ckb/96fa73a92484.png",
+          "https://i.ibb.co/b53ZYM8/b19a4d18669a.png",
+          "https://i.ibb.co/kqKxytD/736eb59d518d.png",
+          "https://i.ibb.co/BspLpyx/e00b7dafc2a8.png",
+          "https://i.ibb.co/zxrpTGy/19c591c783a4.png",
+          "https://i.ibb.co/n0kXCrP/6078e298dffe.png",
+          "https://i.ibb.co/Bf3T1cz/9271cc5af9fe.png",
+          "https://i.ibb.co/mC1jV6x/9fa68dbe13f4.png",
+          "https://i.ibb.co/0KH3tqC/8398a9ea8bdf.png",
+          "https://i.ibb.co/f42z397/08d1676a9a82.png",
+          "https://i.ibb.co/tQSwS7T/4f725e35b9e8.png",
+          "https://i.ibb.co/dJmtQTX/2719a77dc527.png",
+          "https://i.ibb.co/0DBzNVY/0c546f4f7430.png",
+          "https://i.ibb.co/FVzyywB/a873d1542e53.png",
+          "https://i.ibb.co/FHsNY32/534d8dbbb478.png",
+          "https://i.ibb.co/6gxPmwX/8238a7137e7d.png",
+          "https://i.ibb.co/y460J4W/aa7255052167.png"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Secret",
-      "volume":"4"
+      "last_updated":"1618424486"
     },
     "28":{
+      "volume":"4",
       "groups":{
-        "Habanero Scans":"/proxy/api/imgur/chapter/ZxIjvfy/"
+        "Habanero Scans":[
+          "https://i.ibb.co/p24yDrx/7acefb99c6de.jpg",
+          "https://i.ibb.co/NpMGd0Q/6919740d1283.jpg",
+          "https://i.ibb.co/rGwwj05/abbed5664d1c.jpg",
+          "https://i.ibb.co/9hjqM2J/796f391beb22.jpg",
+          "https://i.ibb.co/6FjCX5f/18bef40aacc4.jpg",
+          "https://i.ibb.co/hHHSGHY/9ee158b0c970.jpg",
+          "https://i.ibb.co/g3F8b4p/7dbef45df72b.jpg",
+          "https://i.ibb.co/1MKZJFx/d563feb86ba3.jpg",
+          "https://i.ibb.co/X3BD4Wj/40a91c3cea38.jpg",
+          "https://i.ibb.co/5KTpf2q/ca1a4800a7c9.jpg",
+          "https://i.ibb.co/gM3JxL8/88b72437d79b.jpg",
+          "https://i.ibb.co/myQmDQz/204a9da6350d.jpg",
+          "https://i.ibb.co/Zxnd2X5/91378bf0e22e.jpg",
+          "https://i.ibb.co/gzpwL1b/56bba3908676.jpg",
+          "https://i.ibb.co/7QM8LBF/51c0a3cfb0aa.jpg",
+          "https://i.ibb.co/k3y962q/4b25c52f2d1b.jpg",
+          "https://i.ibb.co/JFsrjgj/170aa57de0a7.jpg",
+          "https://i.ibb.co/YtsgWLq/9a58735b7e08.jpg",
+          "https://i.ibb.co/JtkrrPX/0a4c75df6034.jpg",
+          "https://i.ibb.co/cvV0nGr/ee3497dd8791.jpg",
+          "https://i.ibb.co/r6gwYcz/3bcb187f7b3a.jpg",
+          "https://i.ibb.co/fxMcRSR/1bc20b1b9174.jpg",
+          "https://i.ibb.co/JR7TSGb/8d350ca1970c.jpg",
+          "https://i.ibb.co/ChFSzmH/071a23ea33a8.jpg",
+          "https://i.ibb.co/WtGDQ5t/c65078556ca0.jpg",
+          "https://i.ibb.co/f1h5mpF/32f685a11f2d.jpg"
+        ]
       },
-      "last_updated":"1616368746",
-      "title":"Shiro",
-      "volume":"4"
+      "last_updated":"1618424513"
     },
-    "29": {
-      "volume": "3",
-      "title": "Padparascha",
-      "groups": {
-        "Habanero Scans": [
+    "3":{
+      "volume":"1",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/PMZFVrz/db91a2ce89fe.jpg",
+          "https://i.ibb.co/PTyt0KG/e9e146ea788e.jpg",
+          "https://i.ibb.co/SwRMLms/6524d6a8fa47.jpg",
+          "https://i.ibb.co/MRtZz4D/348dbee2c40a.jpg",
+          "https://i.ibb.co/V3Bnm6K/1c59384c9775.jpg",
+          "https://i.ibb.co/QP6BCXc/15d52869a80b.jpg",
+          "https://i.ibb.co/hRsLgPD/eef5c992f1f6.jpg",
+          "https://i.ibb.co/j6hKb08/dbf9ba963356.jpg",
+          "https://i.ibb.co/ZzDmqrh/2b3b29819124.jpg",
+          "https://i.ibb.co/9yWcK00/c6527c383587.jpg",
+          "https://i.ibb.co/2Z5Lfnb/38ddf2e47aef.jpg",
+          "https://i.ibb.co/7Scwv3C/27b4b6edbd2f.jpg",
+          "https://i.ibb.co/8n3Lwh1/30838585c4c0.jpg",
+          "https://i.ibb.co/GsJys4F/22884ef8c9d5.jpg",
+          "https://i.ibb.co/yyBMC3D/396c2775694e.jpg",
+          "https://i.ibb.co/THxG37t/c9fd0b13e236.jpg",
+          "https://i.ibb.co/Q8YrM76/7d9fd4d2a635.jpg",
+          "https://i.ibb.co/xjL77Y4/ee81303d8a6e.jpg",
+          "https://i.ibb.co/0CPr5MH/8dfe9afe5666.jpg",
+          "https://i.ibb.co/F77LcNH/0ba75c931f62.jpg",
+          "https://i.ibb.co/3Ssykh9/a5b77dc4f54a.jpg",
+          "https://i.ibb.co/XZcfGgy/2ce2e6fac1a3.jpg",
+          "https://i.ibb.co/nsfSRFw/bc7ae05c7203.jpg",
+          "https://i.ibb.co/tMHXjgx/c1cf525c1f3a.jpg",
+          "https://i.ibb.co/bPVBy69/0a9d874c471b.jpg",
+          "https://i.ibb.co/1sbt4GK/d6559e7af68e.jpg",
+          "https://i.ibb.co/RYr6DkX/54a6b060b5e8.jpg",
+          "https://i.ibb.co/vzsYKTG/0e380d8695e0.jpg",
+          "https://i.ibb.co/MVcKTT7/56daf34fff2f.jpg",
+          "https://i.ibb.co/g6H8MXS/c3f8a060007a.jpg",
+          "https://i.ibb.co/30f0ctc/98d1143b8a14.jpg",
+          "https://i.ibb.co/hVZKjZs/614fd87aec3e.jpg",
+          "https://i.ibb.co/SnZvYmM/cf5b88e5b72f.jpg",
+          "https://i.ibb.co/sVGP3zf/8153c8ae1224.jpg",
+          "https://i.ibb.co/BjtLzfJ/75b1290a11fc.jpg",
+          "https://i.ibb.co/Y74NQ8b/2d6a1296e879.jpg",
+          "https://i.ibb.co/g7wsP7b/6b81e129ff2d.jpg",
+          "https://i.ibb.co/9tJD8pD/a379c3eb17dd.jpg"
+        ]
+      },
+      "last_updated":"1618424553"
+    },
+    "4":{
+      "volume":"1",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/FnrYRjS/c458fc2ddd8a.jpg",
+          "https://i.ibb.co/BjHhg4N/193c416679ac.jpg",
+          "https://i.ibb.co/1dd9Jjh/e77c1240f2f5.jpg",
+          "https://i.ibb.co/JrHJbBR/aaf747e8069d.jpg",
+          "https://i.ibb.co/0j2VCwL/ad1db20d989f.jpg",
+          "https://i.ibb.co/kcGkZ6g/079185e66fe5.jpg",
+          "https://i.ibb.co/k8LLqHW/402c8eb40761.jpg",
+          "https://i.ibb.co/LSNHhqX/8e8690fe5af7.jpg",
+          "https://i.ibb.co/DVFH9km/acb1619ced1c.jpg",
+          "https://i.ibb.co/4ggTdb0/4cbc03e27393.jpg",
+          "https://i.ibb.co/fHygyng/4cf35855c631.jpg",
+          "https://i.ibb.co/vJ72qxT/872453097896.jpg",
+          "https://i.ibb.co/s5L7CyK/5efbb50edada.jpg",
+          "https://i.ibb.co/x5d8ZrN/b84ab94e2660.jpg",
+          "https://i.ibb.co/jMvb9Sv/d0a6becde76b.jpg",
+          "https://i.ibb.co/qMD8M9t/dcd756c20918.jpg",
+          "https://i.ibb.co/FxDfk3T/835c9646eabe.jpg",
+          "https://i.ibb.co/y0Lf09k/f68937ca3f43.jpg",
+          "https://i.ibb.co/zNLRCHC/00c7521fc823.jpg",
+          "https://i.ibb.co/GMp618H/842ca1fb51ea.jpg",
+          "https://i.ibb.co/LNQPDXG/71e511a74fd4.jpg",
+          "https://i.ibb.co/zSQr78z/3f3b945218c2.jpg",
+          "https://i.ibb.co/3BxWc5L/6fcbe7281dd6.jpg",
+          "https://i.ibb.co/PMc0CLz/3c7945903fe7.jpg"
+        ]
+      },
+      "last_updated":"1618424577"
+    },
+    "5":{
+      "volume":"1",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/7X2NNWW/c0b85ba7ca2c.jpg",
+          "https://i.ibb.co/9HLLtyL/08f9684451b2.jpg",
+          "https://i.ibb.co/rH2vnY5/7d0bfb2438f0.jpg",
+          "https://i.ibb.co/6PTpttC/2d1d57a9d6c1.jpg",
+          "https://i.ibb.co/c6QMZ19/6f6450b21002.jpg",
+          "https://i.ibb.co/SQWgZBC/a6706a70a0c5.jpg",
+          "https://i.ibb.co/tKmxHK1/1dfc26949716.jpg",
+          "https://i.ibb.co/cNvhXRB/1e4a071f72f6.jpg",
+          "https://i.ibb.co/jwd9dDD/f97c1b9741b4.jpg",
+          "https://i.ibb.co/t437TCn/252f4bb93d39.jpg",
+          "https://i.ibb.co/0252YSK/17fbfcbcd0a1.jpg",
+          "https://i.ibb.co/ryNM1Kw/8b1f1ed4d7e3.jpg",
+          "https://i.ibb.co/q0YdRrF/dc23259952a2.jpg",
+          "https://i.ibb.co/FYc9g9T/df8df0c6f498.jpg",
+          "https://i.ibb.co/fGdFk4L/d2f368f68aa3.jpg",
+          "https://i.ibb.co/zx0mPVj/3ef4da3a815e.jpg",
+          "https://i.ibb.co/LJtmJk5/f54a11e7732d.jpg",
+          "https://i.ibb.co/NWKJ3SJ/1ecbd6579ce6.jpg",
+          "https://i.ibb.co/GsNXk9n/360610c5b67f.jpg",
+          "https://i.ibb.co/rFDwtZp/c501d9454420.jpg",
+          "https://i.ibb.co/bJ4bBPz/0bb332c21171.jpg",
+          "https://i.ibb.co/Gc195RZ/90d681e940e2.jpg",
+          "https://i.ibb.co/hdGBCmn/e1ea10e90222.jpg",
+          "https://i.ibb.co/6NsbVK5/72d360d3aa48.jpg"
+        ]
+      },
+      "last_updated":"1618424601"
+    },
+    "6":{
+      "volume":"1",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/xJjbcck/47629525fb0a.jpg",
+          "https://i.ibb.co/GsVL8kk/627069cb2354.jpg",
+          "https://i.ibb.co/MS3Rtps/e21cd0bb9f5e.jpg",
+          "https://i.ibb.co/2YD8njr/62f1b5d14b71.jpg",
+          "https://i.ibb.co/Dw1mK98/4c59a83ca94a.jpg",
+          "https://i.ibb.co/9whgpQY/ae231e39566a.jpg",
+          "https://i.ibb.co/Z8G2rJh/9e813710abea.jpg",
+          "https://i.ibb.co/5543t5z/217e82e222a1.jpg",
+          "https://i.ibb.co/p2nx5vf/fee6361c98fb.jpg",
+          "https://i.ibb.co/rk5JW59/1c20b264de4e.jpg",
+          "https://i.ibb.co/6v1c2Gs/b2a27efc52d5.jpg",
+          "https://i.ibb.co/kHV0C6t/e34853ebc8f8.jpg",
+          "https://i.ibb.co/pWWfVbj/5b5c970d8f6b.jpg",
+          "https://i.ibb.co/9qV13j5/7e82372b507d.jpg",
+          "https://i.ibb.co/KN1HN6S/7ff5784cea49.jpg",
+          "https://i.ibb.co/7V31qPj/113dcf30737f.jpg",
+          "https://i.ibb.co/2sDSDfQ/e21ea433b019.jpg",
+          "https://i.ibb.co/r6rM2md/cb414a287fbd.jpg",
+          "https://i.ibb.co/8xSJRXM/c5a152b75a0f.jpg",
+          "https://i.ibb.co/zRjyBVw/c5135344af12.jpg",
+          "https://i.ibb.co/6XwtQk2/637ecbeab6f9.jpg",
+          "https://i.ibb.co/MkR67wj/3a08d5de6edb.jpg",
+          "https://i.ibb.co/MDH1t4G/a37785e042d8.jpg",
+          "https://i.ibb.co/nL8ZC8N/bde8d62b369a.jpg",
+          "https://i.ibb.co/3dq5WQy/f4c88857e24d.jpg",
+          "https://i.ibb.co/njwBgT9/afdd1593e609.jpg",
+          "https://i.ibb.co/FXXFfrt/597adc613247.jpg",
+          "https://i.ibb.co/R6bcC2R/1318dfd2e826.jpg",
+          "https://i.ibb.co/5TjD7kh/764afa4d5098.jpg"
+        ]
+      },
+      "last_updated":"1618424630"
+    },
+    "7":{
+      "volume":"2",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/jLJC3tG/bd80a02e222e.jpg",
+          "https://i.ibb.co/BLbxk0K/e3c55d54e598.jpg",
+          "https://i.ibb.co/GpjnkRs/6ab57bee825e.jpg",
+          "https://i.ibb.co/dMk94tf/cdc964dc0660.jpg",
+          "https://i.ibb.co/fSjyHRd/077650e56fd5.jpg",
+          "https://i.ibb.co/XCn6VS4/2f2a5c5f0723.jpg",
+          "https://i.ibb.co/3sj8Wmj/0a7fe6114f95.jpg",
+          "https://i.ibb.co/9sGmjxS/fdb207e85da7.jpg",
+          "https://i.ibb.co/kg9DnY7/7f8270d35862.jpg",
+          "https://i.ibb.co/v32qhjJ/b9b59f73f2d0.jpg",
+          "https://i.ibb.co/FhNgFtp/3d513d65cbd5.jpg",
+          "https://i.ibb.co/mSZqNL8/f3f58ecafd6f.jpg",
+          "https://i.ibb.co/jbpRYZk/b2e4ba829b48.jpg",
+          "https://i.ibb.co/bHj61nW/ab97970dab50.jpg",
+          "https://i.ibb.co/sQrHF8z/487c596d1561.jpg",
+          "https://i.ibb.co/0DZhwtt/91582c420a38.jpg",
+          "https://i.ibb.co/3MWtnNL/6feddea7a957.jpg",
+          "https://i.ibb.co/wzL79CL/d670545f4963.jpg",
+          "https://i.ibb.co/vdJyqDY/21c28e7144eb.jpg",
+          "https://i.ibb.co/nB68DL7/45d59483940a.jpg",
+          "https://i.ibb.co/RPTyVgZ/a5877399aede.jpg",
+          "https://i.ibb.co/0FgSz7R/6929d70249e3.jpg",
+          "https://i.ibb.co/F3v086q/a0c5626309ca.jpg",
+          "https://i.ibb.co/qyZPZGx/1991f145176e.jpg",
+          "https://i.ibb.co/6y3CkN3/e6460e5c20ec.jpg",
+          "https://i.ibb.co/MnmMQp6/789bc80a5053.jpg",
+          "https://i.ibb.co/QbV3BT6/d2b22c39e412.jpg",
+          "https://i.ibb.co/fY3qbpQ/473a85f1db7a.jpg",
+          "https://i.ibb.co/sv7htvM/ad78cefe8706.jpg",
+          "https://i.ibb.co/dgtkz0R/ede82ed30d58.jpg",
+          "https://i.ibb.co/7kvv3kx/2c69a818ff32.jpg"
+        ]
+      },
+      "last_updated":"1618424662"
+    },
+    "8":{
+      "volume":"2",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/vXZ8Gkj/4407a038c4fc.jpg",
+          "https://i.ibb.co/10c5dYt/afdfb81b6637.jpg",
+          "https://i.ibb.co/1rCqkzf/717ad6031704.jpg",
+          "https://i.ibb.co/n8tPy4R/bf6ab4d1e2eb.jpg",
+          "https://i.ibb.co/0CVJdWZ/b08c76bff219.jpg",
+          "https://i.ibb.co/YfDDqTT/bcb095d507fd.jpg",
+          "https://i.ibb.co/0FbFVkR/15130200b824.jpg",
+          "https://i.ibb.co/YRdTDYT/c8781fab5abf.jpg",
+          "https://i.ibb.co/7b10V92/bad3cc511e74.jpg",
+          "https://i.ibb.co/L9Wb40C/035bba7c29dd.jpg",
+          "https://i.ibb.co/jybMYqg/c8db01afb519.jpg",
+          "https://i.ibb.co/Qn9H1cq/eb560149ced9.jpg",
+          "https://i.ibb.co/9HPrWxx/83d94010cb64.jpg",
+          "https://i.ibb.co/vL5pFL6/f277fa0da849.jpg",
+          "https://i.ibb.co/0GG3vWp/c87487cdfc23.jpg",
+          "https://i.ibb.co/Pz205yb/003feb01a677.jpg",
+          "https://i.ibb.co/KsFkvF2/bf796441f60f.jpg",
+          "https://i.ibb.co/5vW8bgV/c06e9aa71d90.jpg",
+          "https://i.ibb.co/9vX1wBT/bfd94d0f32cb.jpg",
+          "https://i.ibb.co/PWr9gpc/1db3234d7180.jpg",
+          "https://i.ibb.co/fxXnhpC/8bfd8e1fa2bb.jpg",
+          "https://i.ibb.co/PYcKXfv/45fb56aca438.jpg",
+          "https://i.ibb.co/xHHNLLb/2d17b91f218e.jpg",
+          "https://i.ibb.co/KGk0Nwh/1d6f8250fee0.jpg"
+        ]
+      },
+      "last_updated":"1618424688"
+    },
+    "9":{
+      "volume":"2",
+      "groups":{
+        "Habanero Scans":[
+          "https://i.ibb.co/xMvhZ2y/4b3de6ba72e2.jpg",
+          "https://i.ibb.co/YDQjtyQ/41ff8a078a55.jpg",
+          "https://i.ibb.co/yVBB5qR/e5fead7bc1d5.jpg",
+          "https://i.ibb.co/HPKY8rD/4f0638d2a923.jpg",
+          "https://i.ibb.co/j5J575R/dd4d3e12de73.jpg",
+          "https://i.ibb.co/JCKYKqq/c51cc33291b2.jpg",
+          "https://i.ibb.co/VJrqJNR/9b42bab2c141.jpg",
+          "https://i.ibb.co/PDbB3C8/9dc7361ed63a.jpg",
+          "https://i.ibb.co/jfDQFLG/dfd7c539b38e.jpg",
+          "https://i.ibb.co/LRTD4sq/7092656660e3.jpg",
+          "https://i.ibb.co/RSzdM9B/08225e57a9c7.jpg",
+          "https://i.ibb.co/ZSv24DD/5caf3174e995.jpg",
+          "https://i.ibb.co/LPNpP4Y/6eede1002cf5.jpg",
+          "https://i.ibb.co/4ZV7kGr/a415afd0c3c2.jpg",
+          "https://i.ibb.co/XSXSLCs/24490ef46c70.jpg",
+          "https://i.ibb.co/TrFhK58/4154ccbf8e41.jpg",
+          "https://i.ibb.co/b5ChW5W/f1ac60d91e8d.jpg",
+          "https://i.ibb.co/Svy271w/056e91fda04e.jpg",
+          "https://i.ibb.co/qCSXK54/fc32adce8a0a.jpg",
+          "https://i.ibb.co/KGKBPr6/a46564901229.jpg",
+          "https://i.ibb.co/GCj819p/a6e79c99579e.jpg",
+          "https://i.ibb.co/Z16xtyw/607f891b81a7.jpg",
+          "https://i.ibb.co/tHd79Jk/69b6a8082d0a.jpg"
+        ]
+      },
+      "last_updated":"1618424713"
+    },
+    "29":{
+      "volume":"3",
+      "title":"Padparascha",
+      "groups":{
+        "Habanero Scans":[
           "https://i.ibb.co/qgZ3ZrD/1a4f83df8d46.jpg",
           "https://i.ibb.co/g4Y2HLk/0a6d60c82d95.jpg",
           "https://i.ibb.co/9cJSwyW/e5f70fce91f5.jpg",
@@ -264,13 +1042,13 @@
           "https://i.ibb.co/9pmkZk9/9a5a0070ea0a.jpg"
         ]
       },
-      "last_updated": "1618275531"
+      "last_updated":"1618275531"
     },
-    "30": {
-      "volume": "3",
-      "title": "Empty Black Spot",
-      "groups": {
-        "Habanero Scans": [
+    "30":{
+      "volume":"3",
+      "title":"Empty Black Spot",
+      "groups":{
+        "Habanero Scans":[
           "https://i.ibb.co/ZWV4Dcr/5cf48f1f9fdd.png",
           "https://i.ibb.co/fktTWyX/7df77c5c56bd.png",
           "https://i.ibb.co/9yWgkFY/2216dcc76f16.png",
@@ -298,7 +1076,7 @@
           "https://i.ibb.co/BBQWb85/41851c7f1ff2.png"
         ]
       },
-      "last_updated": "1618275558"
+      "last_updated":"1618275558"
     },
     "31":{
       "title":"Fresh",
